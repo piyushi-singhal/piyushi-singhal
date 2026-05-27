@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piyushi Singhal
 - 👀 I’m interested in creating new visual designs and learning new things.
 - 🌱 I’m currently upskilling my web dev area of interest.
-- I am highly interested in AI/ML and Blockchain Technology 
+- I am highly interested in AI/ML
 
 
 <!---
