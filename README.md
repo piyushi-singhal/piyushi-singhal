@@ -39,6 +39,7 @@ Amazon Web Services (AWS) • Cloud Computing Fundamentals • Cloud Architectur
 
 ### Development Tools & Platforms
 Git • GitHub • Visual Studio Code • MySQL • Figma • Canva
+
 ---
 
 ## 📌 Featured Projects
