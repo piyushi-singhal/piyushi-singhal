@@ -22,26 +22,26 @@ I enjoy transforming ideas into scalable solutions — from full-stack web appli
 
 ## 🛠️ Technical Skills
 
-### Languages
+#Programming Languages
+Python, JavaScript, TypeScript, SQL, C++
 
-Python • JavaScript • TypeScript • C • C++ • SQL
+#Software Development & Web Technologies
+React.js, Next.js, Node.js, HTML5, CSS3, Tailwind CSS, Responsive Web Development
 
-### Web Development
+#Data Analytics & Visualization
+Pandas, NumPy, SQL Analytics, Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA), Microsoft Excel, Tableau
 
-React • Next.js • Tailwind CSS • Node.js • HTML • CSS
+#Artificial Intelligence & Machine Learning
+Generative AI, Prompt Engineering, Machine Learning Fundamentals, AI-Assisted Application Development, Data-Driven Decision Making
 
-### Data & Analytics
+#Cloud & DevOps
+Amazon Web Services (AWS), Cloud Computing Fundamentals, Cloud Architecture Concepts
 
-Python • Pandas • NumPy • SQL • Tableau • Power BI • Excel
+#Development Tools & Platforms
+Git, GitHub, Visual Studio Code, MySQL, Figma, Canva
 
-### Cloud & AI
-
-AWS • Generative AI • Prompt Engineering • Machine Learning Fundamentals
-
-### Tools
-
-Git • GitHub • VS Code • Figma • Canva • MySQL
-
+#Professional Competencies
+Problem Solving, System Design Fundamentals, Analytical Thinking, Cross-Functional Collaboration, Agile Development, UI/UX Design Principles
 ---
 
 ## 📌 Featured Projects
