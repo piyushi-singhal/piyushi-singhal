@@ -81,7 +81,7 @@ AI-powered travel planning platform generating personalized itineraries and inte
 
 ## 🌐 Connect With Me
 
-* Portfolio: https://portfolio-piyushi-singhals-projects.vercel.app/
+* Portfolio: https://portfolio-data-analyst-nine.vercel.app/
 * LinkedIn: https://www.linkedin.com/in/piyushisinghal/
 * GitHub: https://github.com/piyushi-singhal
 
